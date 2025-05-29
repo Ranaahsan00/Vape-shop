@@ -5,7 +5,7 @@ import ProductsGrid from "../Components/ProductsGrid";
 import Banner from "../Components/Banner";
 import Testimonials from "../Components/Testimonials";
 import Footer from "../Components/Footer";
-import FAQ from "../Components/Faq";
+import FAQ from "../Components/FAQ";
 
 const Home = () => {
   return (
